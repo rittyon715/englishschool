@@ -700,7 +700,7 @@ SP
   #reason .slide .title {
     font-size: 1.5rem;
   }
-  @keyframes slide-left {
+  @keyframes reason-left {
     0% {
       transform: translateX(-100%);
     }
@@ -709,7 +709,7 @@ SP
       transform: translateX(0);
     }
   }
-  @keyframes slide-right {
+  @keyframes reason-right {
     0% {
       transform: translateX(100%);
     }
